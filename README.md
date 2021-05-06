@@ -1,4 +1,4 @@
-# Capstone_project-coursera
+# Capstone_project
 
 Final project of IBM Data Science Professional Certificate
 
